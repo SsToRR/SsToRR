@@ -6,7 +6,6 @@ I'm **Miras Ibrayev** — an aspiring **backend developer** and **data scientist
 Kazakh-British Technical University (KBTU), Almaty  
 Relevant coursework: Algorithms & Data Structures, Databases, Computer Architecture, Statistics, C++, Python, ICT.
 
----
 
 ## 📫 Contact Me
 📍 Based in **Almaty, Kazakhstan**  
@@ -14,8 +13,6 @@ Relevant coursework: Algorithms & Data Structures, Databases, Computer Architect
 💬 Telegram: **@miras_pptx**  
 🔗 LinkedIn: https://www.linkedin.com/in/miras-ibrayev-119003375/
 
-
----
 
 ## 🚀 What I Do
 - Competitive programming (ICPC quarter-finalist, multiple medals)  
@@ -25,7 +22,6 @@ Relevant coursework: Algorithms & Data Structures, Databases, Computer Architect
 - AI-based automation & computer-vision projects  
 - Web apps, APIs & developer tools
 
----
 
 ## 🧠 Skills
 **Languages:** Python, C++, SQL, HTML/CSS
