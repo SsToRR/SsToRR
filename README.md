@@ -8,10 +8,12 @@ Relevant coursework: Algorithms & Data Structures, Databases, Computer Architect
 
 
 ## 📫 Contact Me
-📍 Based in **Almaty, Kazakhstan**, currently single
+📍 Based in **Almaty, Kazakhstan**
 📧 Email: **miras.ibraev.10@mail.ru**  
 💬 Telegram: **@miras_pptx**  
 🔗 LinkedIn: https://www.linkedin.com/in/miras-ibrayev-119003375/
+🟧 Status: Single, Data-Miner Intern at Telecom.kz
+
 
 
 ## 🚀 What I Do
