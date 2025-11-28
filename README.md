@@ -1,16 +1,37 @@
-## Hi there 👋
+# Yo! 👋
 
-<!--
-**SsToRR/SsToRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Miras Ibrayev** — an aspiring **backend developer** and **data scientist**, passionate about solving real problems with clean code and clever algorithms.
 
-Here are some ideas to get you started:
+🎓 **Bachelor’s in Information Systems (2024–2028)**  
+Kazakh-British Technical University (KBTU), Almaty  
+Relevant coursework: Algorithms & Data Structures, Databases, Computer Architecture, Statistics, C++, Python, ICT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact Me
+📍 Based in **Almaty, Kazakhstan**  
+📧 Email: **miras.ibraev.10@mail.ru**  
+💬 Telegram: **@miras_pptx**  
+🔗 LinkedIn: https://www.linkedin.com/in/miras-ibrayev-119003375/
+
+
+---
+
+## 🚀 What I Do
+- Competitive programming (ICPC quarter-finalist, multiple medals)  
+- Backend development (Django, DRF, PostgreSQL, Docker)  
+- Data analysis & data mining  
+- Building Telegram & Microsoft Teams bots  
+- AI-based automation & computer-vision projects  
+- Web apps, APIs & developer tools
+
+---
+
+## 🧠 Skills
+**Languages:** Python, C++, SQL, HTML/CSS
+**Frameworks:** Django, DRF  
+**Tools:** Docker, PostgreSQL, Figma, Photoshop, MS Office  
+**Soft skills:** Critical thinking, teamwork, adaptive learning  
+**Languages:** Kazakh (native), Russian (fluent), English (IELTS 7.5)
+
+⭐ *Thanks for checking out my profile!*
