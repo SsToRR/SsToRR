@@ -1,6 +1,6 @@
 # Yo! 👋
 
-I'm **Miras Ibrayev** — an aspiring **backend developer** and **data scientist**, passionate about solving real problems with clean code and clever algorithms.
+I'm **Miras Ibrayev** — an aspiring **backend developer** and **AI Engineer**, passionate about solving real problems with clean code and clever algorithms.
 
 🎓 **Bachelor’s in Information Systems (2024–2028)**  
 Kazakh-British Technical University (KBTU), Almaty  
@@ -12,18 +12,19 @@ Relevant coursework: Algorithms & Data Structures, Databases, Computer Architect
 📧 Email: **miras.ibraev.10@mail.ru**  
 💬 Telegram: **@miras_pptx**  
 🔗 LinkedIn: https://www.linkedin.com/in/miras-ibrayev-119003375/  
-🟧 Status: single, actively searching for new opportunities
+🟧 Status: single, Web-Developer @ Amorix, AI Engineer @ RobolabsAI, SWE @ DentDeskAI
 
 
 
 
 ## 🚀 What I Do
 - Competitive programming (ICPC quarter-finalist, multiple medals)  
-- Backend development (Django, DRF, PostgreSQL, Docker)  
+- Backend development (Django, FastAPI, PostgreSQL)  
+- Frontend development (Angular)  
 - Data analysis & data mining  
 - Building Telegram & Microsoft Teams bots  
 - AI-based automation & computer-vision projects  
-- Web apps, APIs & developer tools
+- Web apps, APIs, Prompt Engineering & developer tools
 
 
 ## 🧠 Skills
