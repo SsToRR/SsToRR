@@ -12,7 +12,7 @@ Relevant coursework: Algorithms & Data Structures, Databases, Computer Architect
 📧 Email: **miras.ibraev.10@mail.ru**  
 💬 Telegram: **@miras_pptx**  
 🔗 LinkedIn: https://www.linkedin.com/in/miras-ibrayev-119003375/  
-🟧 Status: single, Web-Developer @ Amorix, AI Engineer @ RobolabsAI, SWE @ DentDeskAI
+🟧 Status: Not single, Web-Developer @ Amorix, AI Engineer @ RobolabsAI, SWE @ DentDeskAI
 
 
 
