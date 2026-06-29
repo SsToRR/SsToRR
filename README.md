@@ -38,8 +38,7 @@ class MirasIbrayev:
         self.focus = ["Backend Development", "AI Engineering", "Automation"]
         self.current_roles = [
             "Web Developer @ Amorix",
-            "AI Engineer @ RobolabsAI",
-            "SWE @ DentDeskAI"
+            "Software Engineer @ RobolabsAI"
         ]
         self.goal = "Build software that solves real problems"
 
